@@ -1,0 +1,9 @@
+#team {
+    background: url('img/darkheatcircle.jpg') top left no-repeat;
+    background-size: cover;
+    color: burlywood;
+    text-align: center;
+}
+.team{
+    font-family: cursive;
+}
